@@ -35,14 +35,14 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 ## Stack
 
 <p align="center">
-  <img src="./assets/icons/go.svg" width="40" height="40" alt="Go" />&nbsp;&nbsp;
-  <img src="./assets/icons/php.svg" width="40" height="40" alt="PHP" />&nbsp;&nbsp;
-  <img src="./assets/icons/react.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;
-  <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="./assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" />&nbsp;&nbsp;
-  <img src="./assets/icons/mysql.svg" width="40" height="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="./assets/icons/docker.svg" width="40" height="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/go.svg"><img src="./assets/icons/light/go.svg" width="40" height="40" alt="Go" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/php.svg"><img src="./assets/icons/light/php.svg" width="40" height="40" alt="PHP" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/react.svg"><img src="./assets/icons/light/react.svg" width="40" height="40" alt="React" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/typescript.svg"><img src="./assets/icons/light/typescript.svg" width="40" height="40" alt="TypeScript" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/nodejs.svg"><img src="./assets/icons/light/nodejs.svg" width="40" height="40" alt="Node.js" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/mysql.svg"><img src="./assets/icons/light/mysql.svg" width="40" height="40" alt="MySQL" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/docker.svg"><img src="./assets/icons/light/docker.svg" width="40" height="40" alt="Docker" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/dark/git.svg"><img src="./assets/icons/light/git.svg" width="40" height="40" alt="Git" /></picture>
 </p>
 
 <br/>
