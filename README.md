@@ -77,8 +77,13 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
     <img src="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=Rxemu&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=Rxemu&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
+    <img src="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default">
+  </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=Portfolio-v2&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=Portfolio-v2&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
     <img src="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default">
   </picture>
 </p>
