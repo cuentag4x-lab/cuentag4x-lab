@@ -15,7 +15,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="70%" valign="top" style="border: none;">
+<td width="60%" valign="top" style="border: none;">
 
 <h1>Lautaro Souza</h1>
 <p>Full-Stack Developer · Backend en Go</p>
@@ -88,7 +88,7 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 <sub>Buenos Aires, Argentina</sub>
 
 </td>
-<td width="30%" valign="top" style="border: none;">
+<td width="40%" valign="top" style="border: none;">
 
 <!-- ============================================= -->
 <!-- BANNER LATERAL — dividido en 2 imágenes        -->
@@ -97,6 +97,7 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 <!--   assets/banner-vertical-1-light.png/gif       -->
 <!--   assets/banner-vertical-2-dark.png/gif        -->
 <!--   assets/banner-vertical-2-light.png/gif       -->
+<!-- Ancho de referencia sugerido: 800px            -->
 <!-- GitHub no respeta height:100% acá, así que usamos -->
 <!-- un alto FIJO en px (generoso) + object-fit:cover -->
 <!-- para que cubra de sobra el contenido real.      -->
