@@ -106,7 +106,7 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-vertical-1-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-vertical-1-light.png">
-  <img src="./assets/banner-vertical-1-light.png" style="width: 100%; height: 800px; object-fit: cover; display: block;" alt="banner vertical superior">
+  <img src="./assets/banner-vertical-1-light.png" style="width: 100%; height: 800px; object-fit: cover; display: block; margin-bottom: 12px;" alt="banner vertical superior">
 </picture>
 
 <picture>
