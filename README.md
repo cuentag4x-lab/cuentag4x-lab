@@ -1,6 +1,21 @@
-<table>
+<!-- ============================================= -->
+<!-- BANNER HORIZONTAL — arriba de todo             -->
+<!-- Necesitás DOS imágenes (o gifs):               -->
+<!--   assets/banner-dark.gif  (para modo oscuro)   -->
+<!--   assets/banner-light.gif (para modo claro)    -->
+<!-- Medida sugerida: 1500x350px                    -->
+<!-- ============================================= -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.gif">
+    <img src="./assets/banner-light.gif" width="100%" alt="banner">
+  </picture>
+</p>
+
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="70%" valign="top">
+<td width="70%" valign="top" style="border: none;">
 
 <h1>Lautaro Souza</h1>
 <p>Full-Stack Developer · Backend en Go</p>
@@ -73,10 +88,10 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 <sub>Buenos Aires, Argentina</sub>
 
 </td>
-<td width="30%" valign="top">
+<td width="30%" valign="top" style="border: none;">
 
 <!-- ============================================= -->
-<!-- BANNER VERTICAL — ocupa todo el alto           -->
+<!-- BANNER LATERAL — ocupa todo el alto            -->
 <!-- Necesitás DOS imágenes (o gifs):               -->
 <!--   assets/banner-vertical-dark.png/gif          -->
 <!--   assets/banner-vertical-light.png/gif         -->
