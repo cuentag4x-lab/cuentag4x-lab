@@ -97,30 +97,23 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 <!--   assets/banner-vertical-1-light.png/gif       -->
 <!--   assets/banner-vertical-2-dark.png/gif        -->
 <!--   assets/banner-vertical-2-light.png/gif       -->
-<!-- Diseñalas con proporción 1:2 (ej: 600x1200)    -->
-<!-- como punto de partida — el object-fit: cover   -->
-<!-- de abajo las estira/recorta para llenar TODO   -->
-<!-- el alto real de la columna, sea cual sea.      -->
+<!-- GitHub no respeta height:100% acá, así que usamos -->
+<!-- un alto FIJO en px (generoso) + object-fit:cover -->
+<!-- para que cubra de sobra el contenido real.      -->
+<!-- Si te sobra imagen abajo, no se nota (se recorta). -->
+<!-- Si te falta, agrandá el valor de height abajo.  -->
 <!-- ============================================= -->
-<div style="display: flex; flex-direction: column; height: 100%;">
-
-<div style="flex: 1; overflow: hidden;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-vertical-1-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-vertical-1-light.png">
-  <img src="./assets/banner-vertical-1-light.png" style="width: 100%; height: 100%; object-fit: cover; display: block;" alt="banner vertical superior">
+  <img src="./assets/banner-vertical-1-light.png" style="width: 100%; height: 800px; object-fit: cover; display: block;" alt="banner vertical superior">
 </picture>
-</div>
 
-<div style="flex: 1; overflow: hidden;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-vertical-2-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-vertical-2-light.png">
-  <img src="./assets/banner-vertical-2-light.png" style="width: 100%; height: 100%; object-fit: cover; display: block;" alt="banner vertical inferior">
+  <img src="./assets/banner-vertical-2-light.png" style="width: 100%; height: 800px; object-fit: cover; display: block;" alt="banner vertical inferior">
 </picture>
-</div>
-
-</div>
 
 </td>
 </tr>
