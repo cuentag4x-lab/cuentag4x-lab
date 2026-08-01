@@ -21,10 +21,10 @@
 <p>Full-Stack Developer · Backend en Go</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/lautaro-souza-3069a5398">LinkedIn</a> ·
-  <a href="mailto:lautarosouza58@gmail.com">Email</a> ·
-  <a href="https://github.com/Prominence673">GitHub</a>
-  <a href="https://portfoliov2-prominence.netlify.app">Portfolio</a>
+  <a href="https://www.linkedin.com/in/lautaro-souza-3069a5398" target="_blank">LinkedIn</a> ·
+  <a href="mailto:lautarosouza58@gmail.com" target="_blank">Email</a> ·
+  <a href="https://github.com/Prominence673" target="_blank">GitHub</a>
+  <a href="https://portfoliov2-prominence.netlify.app" target="_blank">Portfolio</a>
 </p>
 
 <br/>
