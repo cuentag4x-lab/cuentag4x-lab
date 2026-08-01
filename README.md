@@ -48,14 +48,14 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&icon_color=8b949e&title_color=c9d1d9&hide_title=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&icon_color=57606a&title_color=24292f&hide_title=true">
-    <img height="135" src="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=default&hide_title=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&icon_color=8b949e&title_color=c9d1d9&hide_title=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&icon_color=57606a&title_color=24292f&hide_title=true">
+    <img height="135" src="https://github-readme-stats-theta-two-91.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=default&hide_title=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9&hide_title=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f&hide_title=true">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=default&hide_title=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9&hide_title=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f&hide_title=true">
+    <img height="135" src="https://github-readme-stats-theta-two-91.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=default&hide_title=true">
   </picture>
 </p>
 
@@ -65,14 +65,14 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
+    <img src="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
+    <img src="https://github-readme-stats-theta-two-91.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default">
   </picture>
 </p>
 
