@@ -91,19 +91,36 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 <td width="30%" valign="top" style="border: none;">
 
 <!-- ============================================= -->
-<!-- BANNER LATERAL — ocupa todo el alto            -->
-<!-- Necesitás DOS imágenes (o gifs):               -->
-<!--   assets/banner-vertical-dark.png/gif          -->
-<!--   assets/banner-vertical-light.png/gif         -->
-<!-- Medida sugerida: 500x2000px (proporción larga  -->
-<!-- tipo 1:4). Ajustá el alto real según cuánto     -->
-<!-- contenido termine teniendo la columna izquierda -->
+<!-- BANNER LATERAL — dividido en 2 imágenes        -->
+<!-- Necesitás CUATRO imágenes (o gifs):            -->
+<!--   assets/banner-vertical-1-dark.png/gif        -->
+<!--   assets/banner-vertical-1-light.png/gif       -->
+<!--   assets/banner-vertical-2-dark.png/gif        -->
+<!--   assets/banner-vertical-2-light.png/gif       -->
+<!-- Diseñalas con proporción 1:2 (ej: 600x1200)    -->
+<!-- como punto de partida — el object-fit: cover   -->
+<!-- de abajo las estira/recorta para llenar TODO   -->
+<!-- el alto real de la columna, sea cual sea.      -->
 <!-- ============================================= -->
+<div style="display: flex; flex-direction: column; height: 100%;">
+
+<div style="flex: 1; overflow: hidden;">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-vertical-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-vertical-light.png">
-  <img src="./assets/banner-vertical-light.png" width="100%" alt="banner vertical">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-vertical-1-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-vertical-1-light.png">
+  <img src="./assets/banner-vertical-1-light.png" style="width: 100%; height: 100%; object-fit: cover; display: block;" alt="banner vertical superior">
 </picture>
+</div>
+
+<div style="flex: 1; overflow: hidden;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-vertical-2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-vertical-2-light.png">
+  <img src="./assets/banner-vertical-2-light.png" style="width: 100%; height: 100%; object-fit: cover; display: block;" alt="banner vertical inferior">
+</picture>
+</div>
+
+</div>
 
 </td>
 </tr>
