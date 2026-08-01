@@ -35,11 +35,14 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 ## Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=dark&perline=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=light&perline=8">
-    <img src="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=light&perline=8">
-  </picture>
+  <img src="./assets/icons/go.svg" width="40" height="40" alt="Go" />&nbsp;&nbsp;
+  <img src="./assets/icons/php.svg" width="40" height="40" alt="PHP" />&nbsp;&nbsp;
+  <img src="./assets/icons/react.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;
+  <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="./assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" />&nbsp;&nbsp;
+  <img src="./assets/icons/mysql.svg" width="40" height="40" alt="MySQL" />&nbsp;&nbsp;
+  <img src="./assets/icons/docker.svg" width="40" height="40" alt="Docker" />&nbsp;&nbsp;
+  <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" />
 </p>
 
 <br/>
