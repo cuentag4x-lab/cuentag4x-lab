@@ -21,18 +21,19 @@
 <p>Full-Stack Developer · Backend en Go</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a> ·
-  <a href="mailto:tu.email@ejemplo.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/lautaro-souza-3069a5398">LinkedIn</a> ·
+  <a href="mailto:lautarosouza58@gmail.com">Email</a> ·
   <a href="https://github.com/Prominence673">GitHub</a>
+  <a href="https://portfoliov2-prominence.netlify.app">Portfolio</a>
 </p>
 
 <br/>
 
 ## Sobre mí
 
-Desarrollador full-stack en **Otter.ly**, una consultora de software chica donde construimos SaaS, sistemas web y automatizaciones a medida. Actualmente en transición hacia backend, especializándome en **Go**.
+Desarrollador full-stack en **Otter.ly**, una consultora de software donde construimos SaaS, sistemas web y automatizaciones a medida. Actualmente en transición hacia backend, especializándome en **Go** (tambien mejorando activamente en PHP, Python y Node). En frontend programo actualmente utilizando Typescript, React y Tailwind.
 
-Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otter-api** de PHP a Go.
+Proyectos destacados: **tdocli** (CLI task manager en Go), **Rxemu** (CLI de youtube music), **Portfolio** (Portfolio personal).
 
 <br/>
 
