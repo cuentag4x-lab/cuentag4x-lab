@@ -1,11 +1,16 @@
 <!-- ============================================= -->
-<!-- BANNER ESTÁTICO (imagen propia)                -->
-<!-- Subí tu imagen al repo (ej: assets/banner.png) -->
-<!-- o a un servicio como imgur y pegá la URL acá.  -->
+<!-- BANNER ESTÁTICO — versión claro/oscuro         -->
+<!-- Necesitás DOS imágenes:                        -->
+<!--   assets/banner-dark.png  (para modo oscuro)   -->
+<!--   assets/banner-light.png (para modo claro)    -->
 <!-- Medida sugerida: 1200x300 o 1600x400 px        -->
 <!-- ============================================= -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+    <img src="./assets/banner-light.png" width="100%" alt="banner">
+  </picture>
 </p>
 
 <h1 align="center">Lautaro Souza</h1>
@@ -30,7 +35,11 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=dark&perline=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=dark&perline=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=light&perline=8">
+    <img src="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=light&perline=8">
+  </picture>
 </p>
 
 <br/>
@@ -38,8 +47,16 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 ## Stats
 
 <p align="center">
-  <img height="135" src="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&icon_color=8b949e&title_color=c9d1d9&hide_title=true" />
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&title_color=c9d1d9&hide_title=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&icon_color=8b949e&title_color=c9d1d9&hide_title=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&icon_color=57606a&title_color=24292f&hide_title=true">
+    <img height="135" src="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=default&hide_title=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9&hide_title=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f&hide_title=true">
+    <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=default&hide_title=true">
+  </picture>
 </p>
 
 <br/>
@@ -47,8 +64,16 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 ## Proyectos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&title_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&title_color=c9d1d9" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=dark&bg_color=00000000&text_color=8b949e&title_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default&bg_color=00000000&text_color=57606a&title_color=24292f">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default">
+  </picture>
 </p>
 
 <br/>
