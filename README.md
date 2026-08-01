@@ -29,15 +29,17 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 
 ## Stack
 
-`Go` `PHP` `React` `TypeScript` `Node.js` `MySQL` `Docker` `n8n` `Git`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,php,react,ts,nodejs,mysql,docker,git&theme=dark&perline=8" />
+</p>
 
 <br/>
 
 ## Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=default&hide_title=true&text_color=333&icon_color=333&title_color=000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=default&hide_title=true&text_color=333&title_color=000" />
+  <img height="135" src="https://github-readme-stats.vercel.app/api?username=Prominence673&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&icon_color=8b949e&title_color=c9d1d9&hide_title=true" />
+  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prominence673&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&title_color=c9d1d9&hide_title=true" />
 </p>
 
 <br/>
@@ -45,8 +47,8 @@ Proyectos activos: **tdocli** (CLI task manager en Go) y la migración de **otte
 ## Proyectos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=default&text_color=333&title_color=000" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=default&text_color=333&title_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=tdocli&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&title_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prominence673&repo=otter-api&hide_border=true&theme=transparent&bg_color=00000000&text_color=8b949e&title_color=c9d1d9" />
 </p>
 
 <br/>
